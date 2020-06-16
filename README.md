@@ -16,6 +16,10 @@
 <br>
 <li> Julio Cesar Silva Rangel </li>
 <br>
+<li> Renato Borges Gallo Junior </li>
+<br>
+<li> Valdir Evaristo da Silva Junior</li>
+<br>
 </ul>
 <h2> Objetivo </h2>
 <h5> Este projeto tem por objetivo criar um produto final que seja capaz de 
