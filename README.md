@@ -57,6 +57,15 @@ cadastrar dados de uma pessoa e suas tarefas mensais, além de aplicar o SCRUM e
  <li> Ciclo de implantação baseado em GitFlow </li>
 </ul>
 
+
+<h3> Entrega 5 </h3>
+ <ul>
+ <li> Criação do Calendar com biblioteca 'angular-calendar' </li>
+ <li> Atualização, Inserção de Tarefas </li>
+ <li> Listagem de tarefas por tabela </li>
+ <li> Conserto de bugs no backend </li>
+</ul>
+
   
 <br>
 <br>
