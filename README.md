@@ -67,6 +67,20 @@ cadastrar dados de uma pessoa e suas tarefas mensais, além de aplicar o SCRUM e
 </ul>
 
   
+<h3> Entrega 6 </h3>
+ <ul>
+ <li> Busca de usuários para cadastro nas tarefas </li>
+ <li> Atualização nos testes para implementação de usuário </li>
+ <li> Atualização dos usuários na criação de tarefas </li>
+</ul>
+
+<h3> Próxima entrega </h3>
+ <ul>
+ <li> Buscar tarefas por usuários e filtro de data </li>
+ <li> Atualização dos testes para implementação de filtro </li>
+</ul>
+
+  
 <br>
 <br>
 <h3>- Requisitos necessários para o funcionamento do código </h3>
